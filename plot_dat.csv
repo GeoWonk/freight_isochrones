@@ -1,0 +1,649 @@
+hour,area,cont,contour,hour_text
+00,525,Port Botany,30,00:00
+00,167,Port Botany,20,00:00
+00,19,Port Botany,10,00:00
+01,492,Port Botany,30,01:00
+01,160,Port Botany,20,01:00
+01,20,Port Botany,10,01:00
+02,491,Port Botany,30,02:00
+02,168,Port Botany,20,02:00
+02,27,Port Botany,10,02:00
+03,521,Port Botany,30,03:00
+03,176,Port Botany,20,03:00
+03,28,Port Botany,10,03:00
+04,543,Port Botany,30,04:00
+04,169,Port Botany,20,04:00
+04,25,Port Botany,10,04:00
+05,441,Port Botany,30,05:00
+05,141,Port Botany,20,05:00
+05,27,Port Botany,10,05:00
+06,428,Port Botany,30,06:00
+06,134,Port Botany,20,06:00
+06,20,Port Botany,10,06:00
+07,421,Port Botany,30,07:00
+07,125,Port Botany,20,07:00
+07,18,Port Botany,10,07:00
+08,393,Port Botany,30,08:00
+08,121,Port Botany,20,08:00
+08,17,Port Botany,10,08:00
+09,385,Port Botany,30,09:00
+09,127,Port Botany,20,09:00
+09,18,Port Botany,10,09:00
+10,397,Port Botany,30,10:00
+10,114,Port Botany,20,10:00
+10,19,Port Botany,10,10:00
+11,384,Port Botany,30,11:00
+11,115,Port Botany,20,11:00
+11,19,Port Botany,10,11:00
+12,407,Port Botany,30,12:00
+12,126,Port Botany,20,12:00
+12,17,Port Botany,10,12:00
+13,406,Port Botany,30,13:00
+13,128,Port Botany,20,13:00
+13,18,Port Botany,10,13:00
+14,341,Port Botany,30,14:00
+14,107,Port Botany,20,14:00
+14,17,Port Botany,10,14:00
+15,313,Port Botany,30,15:00
+15,97,Port Botany,20,15:00
+15,16,Port Botany,10,15:00
+16,319,Port Botany,30,16:00
+16,102,Port Botany,20,16:00
+16,17,Port Botany,10,16:00
+17,279,Port Botany,30,17:00
+17,90,Port Botany,20,17:00
+17,17,Port Botany,10,17:00
+18,371,Port Botany,30,18:00
+18,111,Port Botany,20,18:00
+18,19,Port Botany,10,18:00
+19,470,Port Botany,30,19:00
+19,141,Port Botany,20,19:00
+19,24,Port Botany,10,19:00
+20,470,Port Botany,30,20:00
+20,150,Port Botany,20,20:00
+20,18,Port Botany,10,20:00
+21,505,Port Botany,30,21:00
+21,159,Port Botany,20,21:00
+21,20,Port Botany,10,21:00
+22,506,Port Botany,30,22:00
+22,164,Port Botany,20,22:00
+22,20,Port Botany,10,22:00
+23,513,Port Botany,30,23:00
+23,169,Port Botany,20,23:00
+23,26,Port Botany,10,23:00
+00,1136,Chullora,30,00:00
+00,443,Chullora,20,00:00
+00,71,Chullora,10,00:00
+01,1102,Chullora,30,01:00
+01,432,Chullora,20,01:00
+01,67,Chullora,10,01:00
+02,938,Chullora,30,02:00
+02,364,Chullora,20,02:00
+02,59,Chullora,10,02:00
+03,850,Chullora,30,03:00
+03,332,Chullora,20,03:00
+03,54,Chullora,10,03:00
+04,1023,Chullora,30,04:00
+04,382,Chullora,20,04:00
+04,58,Chullora,10,04:00
+05,1171,Chullora,30,05:00
+05,446,Chullora,20,05:00
+05,73,Chullora,10,05:00
+06,1074,Chullora,30,06:00
+06,424,Chullora,20,06:00
+06,78,Chullora,10,06:00
+07,1014,Chullora,30,07:00
+07,401,Chullora,20,07:00
+07,78,Chullora,10,07:00
+08,911,Chullora,30,08:00
+08,347,Chullora,20,08:00
+08,68,Chullora,10,08:00
+09,964,Chullora,30,09:00
+09,342,Chullora,20,09:00
+09,65,Chullora,10,09:00
+10,1018,Chullora,30,10:00
+10,388,Chullora,20,10:00
+10,70,Chullora,10,10:00
+11,1056,Chullora,30,11:00
+11,399,Chullora,20,11:00
+11,71,Chullora,10,11:00
+12,1051,Chullora,30,12:00
+12,393,Chullora,20,12:00
+12,72,Chullora,10,12:00
+13,1040,Chullora,30,13:00
+13,383,Chullora,20,13:00
+13,70,Chullora,10,13:00
+14,990,Chullora,30,14:00
+14,373,Chullora,20,14:00
+14,68,Chullora,10,14:00
+15,818,Chullora,30,15:00
+15,325,Chullora,20,15:00
+15,66,Chullora,10,15:00
+16,740,Chullora,30,16:00
+16,307,Chullora,20,16:00
+16,64,Chullora,10,16:00
+17,682,Chullora,30,17:00
+17,279,Chullora,20,17:00
+17,61,Chullora,10,17:00
+18,803,Chullora,30,18:00
+18,324,Chullora,20,18:00
+18,65,Chullora,10,18:00
+19,1038,Chullora,30,19:00
+19,377,Chullora,20,19:00
+19,69,Chullora,10,19:00
+20,1103,Chullora,30,20:00
+20,417,Chullora,20,20:00
+20,73,Chullora,10,20:00
+21,1128,Chullora,30,21:00
+21,433,Chullora,20,21:00
+21,76,Chullora,10,21:00
+22,1126,Chullora,30,22:00
+22,430,Chullora,20,22:00
+22,74,Chullora,10,22:00
+23,1134,Chullora,30,23:00
+23,434,Chullora,20,23:00
+23,73,Chullora,10,23:00
+00,1462,Derrimut,30,00:00
+00,617,Derrimut,20,00:00
+00,96,Derrimut,10,00:00
+01,1462,Derrimut,30,01:00
+01,610,Derrimut,20,01:00
+01,91,Derrimut,10,01:00
+02,1461,Derrimut,30,02:00
+02,630,Derrimut,20,02:00
+02,92,Derrimut,10,02:00
+03,1409,Derrimut,30,03:00
+03,571,Derrimut,20,03:00
+03,92,Derrimut,10,03:00
+04,1501,Derrimut,30,04:00
+04,659,Derrimut,20,04:00
+04,98,Derrimut,10,04:00
+05,1502,Derrimut,30,05:00
+05,645,Derrimut,20,05:00
+05,100,Derrimut,10,05:00
+06,1410,Derrimut,30,06:00
+06,587,Derrimut,20,06:00
+06,89,Derrimut,10,06:00
+07,1328,Derrimut,30,07:00
+07,557,Derrimut,20,07:00
+07,85,Derrimut,10,07:00
+08,1221,Derrimut,30,08:00
+08,512,Derrimut,20,08:00
+08,80,Derrimut,10,08:00
+09,1229,Derrimut,30,09:00
+09,483,Derrimut,20,09:00
+09,76,Derrimut,10,09:00
+10,1284,Derrimut,30,10:00
+10,501,Derrimut,20,10:00
+10,83,Derrimut,10,10:00
+11,1302,Derrimut,30,11:00
+11,508,Derrimut,20,11:00
+11,84,Derrimut,10,11:00
+12,1286,Derrimut,30,12:00
+12,495,Derrimut,20,12:00
+12,79,Derrimut,10,12:00
+13,1276,Derrimut,30,13:00
+13,492,Derrimut,20,13:00
+13,80,Derrimut,10,13:00
+14,1276,Derrimut,30,14:00
+14,495,Derrimut,20,14:00
+14,77,Derrimut,10,14:00
+15,1086,Derrimut,30,15:00
+15,436,Derrimut,20,15:00
+15,70,Derrimut,10,15:00
+16,950,Derrimut,30,16:00
+16,410,Derrimut,20,16:00
+16,64,Derrimut,10,16:00
+17,924,Derrimut,30,17:00
+17,387,Derrimut,20,17:00
+17,63,Derrimut,10,17:00
+18,1100,Derrimut,30,18:00
+18,448,Derrimut,20,18:00
+18,76,Derrimut,10,18:00
+19,1427,Derrimut,30,19:00
+19,590,Derrimut,20,19:00
+19,90,Derrimut,10,19:00
+20,1453,Derrimut,30,20:00
+20,618,Derrimut,20,20:00
+20,95,Derrimut,10,20:00
+21,1482,Derrimut,30,21:00
+21,632,Derrimut,20,21:00
+21,99,Derrimut,10,21:00
+22,1431,Derrimut,30,22:00
+22,580,Derrimut,20,22:00
+22,97,Derrimut,10,22:00
+23,1440,Derrimut,30,23:00
+23,619,Derrimut,20,23:00
+23,90,Derrimut,10,23:00
+00,1549,Port of Melbourne,30,00:00
+00,560,Port of Melbourne,20,00:00
+00,97,Port of Melbourne,10,00:00
+01,1622,Port of Melbourne,30,01:00
+01,611,Port of Melbourne,20,01:00
+01,105,Port of Melbourne,10,01:00
+02,1659,Port of Melbourne,30,02:00
+02,611,Port of Melbourne,20,02:00
+02,103,Port of Melbourne,10,02:00
+03,1598,Port of Melbourne,30,03:00
+03,599,Port of Melbourne,20,03:00
+03,100,Port of Melbourne,10,03:00
+04,1661,Port of Melbourne,30,04:00
+04,628,Port of Melbourne,20,04:00
+04,108,Port of Melbourne,10,04:00
+05,1651,Port of Melbourne,30,05:00
+05,633,Port of Melbourne,20,05:00
+05,108,Port of Melbourne,10,05:00
+06,1515,Port of Melbourne,30,06:00
+06,567,Port of Melbourne,20,06:00
+06,94,Port of Melbourne,10,06:00
+07,1424,Port of Melbourne,30,07:00
+07,517,Port of Melbourne,20,07:00
+07,79,Port of Melbourne,10,07:00
+08,1283,Port of Melbourne,30,08:00
+08,444,Port of Melbourne,20,08:00
+08,62,Port of Melbourne,10,08:00
+09,1309,Port of Melbourne,30,09:00
+09,455,Port of Melbourne,20,09:00
+09,62,Port of Melbourne,10,09:00
+10,1373,Port of Melbourne,30,10:00
+10,484,Port of Melbourne,20,10:00
+10,66,Port of Melbourne,10,10:00
+11,1371,Port of Melbourne,30,11:00
+11,495,Port of Melbourne,20,11:00
+11,67,Port of Melbourne,10,11:00
+12,1365,Port of Melbourne,30,12:00
+12,485,Port of Melbourne,20,12:00
+12,67,Port of Melbourne,10,12:00
+13,1352,Port of Melbourne,30,13:00
+13,491,Port of Melbourne,20,13:00
+13,66,Port of Melbourne,10,13:00
+14,1346,Port of Melbourne,30,14:00
+14,478,Port of Melbourne,20,14:00
+14,64,Port of Melbourne,10,14:00
+15,1102,Port of Melbourne,30,15:00
+15,396,Port of Melbourne,20,15:00
+15,58,Port of Melbourne,10,15:00
+16,952,Port of Melbourne,30,16:00
+16,375,Port of Melbourne,20,16:00
+16,57,Port of Melbourne,10,16:00
+17,962,Port of Melbourne,30,17:00
+17,361,Port of Melbourne,20,17:00
+17,54,Port of Melbourne,10,17:00
+18,1236,Port of Melbourne,30,18:00
+18,432,Port of Melbourne,20,18:00
+18,64,Port of Melbourne,10,18:00
+19,1492,Port of Melbourne,30,19:00
+19,535,Port of Melbourne,20,19:00
+19,80,Port of Melbourne,10,19:00
+20,1526,Port of Melbourne,30,20:00
+20,563,Port of Melbourne,20,20:00
+20,90,Port of Melbourne,10,20:00
+21,1511,Port of Melbourne,30,21:00
+21,547,Port of Melbourne,20,21:00
+21,91,Port of Melbourne,10,21:00
+22,1525,Port of Melbourne,30,22:00
+22,551,Port of Melbourne,20,22:00
+22,89,Port of Melbourne,10,22:00
+23,1532,Port of Melbourne,30,23:00
+23,544,Port of Melbourne,20,23:00
+23,92,Port of Melbourne,10,23:00
+00,1246,Laverton,30,00:00
+00,470,Laverton,20,00:00
+00,112,Laverton,10,00:00
+01,1303,Laverton,30,01:00
+01,466,Laverton,20,01:00
+01,117,Laverton,10,01:00
+02,1329,Laverton,30,02:00
+02,473,Laverton,20,02:00
+02,120,Laverton,10,02:00
+03,1312,Laverton,30,03:00
+03,487,Laverton,20,03:00
+03,123,Laverton,10,03:00
+04,1298,Laverton,30,04:00
+04,473,Laverton,20,04:00
+04,116,Laverton,10,04:00
+05,1324,Laverton,30,05:00
+05,485,Laverton,20,05:00
+05,122,Laverton,10,05:00
+06,1199,Laverton,30,06:00
+06,441,Laverton,20,06:00
+06,107,Laverton,10,06:00
+07,1038,Laverton,30,07:00
+07,384,Laverton,20,07:00
+07,88,Laverton,10,07:00
+08,910,Laverton,30,08:00
+08,347,Laverton,20,08:00
+08,71,Laverton,10,08:00
+09,995,Laverton,30,09:00
+09,379,Laverton,20,09:00
+09,80,Laverton,10,09:00
+10,1127,Laverton,30,10:00
+10,429,Laverton,20,10:00
+10,87,Laverton,10,10:00
+11,1107,Laverton,30,11:00
+11,427,Laverton,20,11:00
+11,83,Laverton,10,11:00
+12,1083,Laverton,30,12:00
+12,422,Laverton,20,12:00
+12,83,Laverton,10,12:00
+13,1106,Laverton,30,13:00
+13,427,Laverton,20,13:00
+13,84,Laverton,10,13:00
+14,1090,Laverton,30,14:00
+14,419,Laverton,20,14:00
+14,80,Laverton,10,14:00
+15,932,Laverton,30,15:00
+15,358,Laverton,20,15:00
+15,76,Laverton,10,15:00
+16,877,Laverton,30,16:00
+16,346,Laverton,20,16:00
+16,73,Laverton,10,16:00
+17,940,Laverton,30,17:00
+17,364,Laverton,20,17:00
+17,85,Laverton,10,17:00
+18,1033,Laverton,30,18:00
+18,403,Laverton,20,18:00
+18,91,Laverton,10,18:00
+19,1264,Laverton,30,19:00
+19,460,Laverton,20,19:00
+19,98,Laverton,10,19:00
+20,1257,Laverton,30,20:00
+20,468,Laverton,20,20:00
+20,110,Laverton,10,20:00
+21,1197,Laverton,30,21:00
+21,448,Laverton,20,21:00
+21,97,Laverton,10,21:00
+22,1271,Laverton,30,22:00
+22,474,Laverton,20,22:00
+22,117,Laverton,10,22:00
+23,1280,Laverton,30,23:00
+23,481,Laverton,20,23:00
+23,122,Laverton,10,23:00
+00,743,Port of Brisbane,30,00:00
+00,201,Port of Brisbane,20,00:00
+00,21,Port of Brisbane,10,00:00
+01,742,Port of Brisbane,30,01:00
+01,193,Port of Brisbane,20,01:00
+01,21,Port of Brisbane,10,01:00
+02,760,Port of Brisbane,30,02:00
+02,204,Port of Brisbane,20,02:00
+02,21,Port of Brisbane,10,02:00
+03,753,Port of Brisbane,30,03:00
+03,201,Port of Brisbane,20,03:00
+03,21,Port of Brisbane,10,03:00
+04,746,Port of Brisbane,30,04:00
+04,204,Port of Brisbane,20,04:00
+04,20,Port of Brisbane,10,04:00
+05,716,Port of Brisbane,30,05:00
+05,199,Port of Brisbane,20,05:00
+05,21,Port of Brisbane,10,05:00
+06,673,Port of Brisbane,30,06:00
+06,179,Port of Brisbane,20,06:00
+06,20,Port of Brisbane,10,06:00
+07,631,Port of Brisbane,30,07:00
+07,164,Port of Brisbane,20,07:00
+07,20,Port of Brisbane,10,07:00
+08,599,Port of Brisbane,30,08:00
+08,159,Port of Brisbane,20,08:00
+08,20,Port of Brisbane,10,08:00
+09,637,Port of Brisbane,30,09:00
+09,164,Port of Brisbane,20,09:00
+09,20,Port of Brisbane,10,09:00
+10,643,Port of Brisbane,30,10:00
+10,167,Port of Brisbane,20,10:00
+10,20,Port of Brisbane,10,10:00
+11,649,Port of Brisbane,30,11:00
+11,170,Port of Brisbane,20,11:00
+11,20,Port of Brisbane,10,11:00
+12,643,Port of Brisbane,30,12:00
+12,169,Port of Brisbane,20,12:00
+12,20,Port of Brisbane,10,12:00
+13,643,Port of Brisbane,30,13:00
+13,170,Port of Brisbane,20,13:00
+13,20,Port of Brisbane,10,13:00
+14,609,Port of Brisbane,30,14:00
+14,168,Port of Brisbane,20,14:00
+14,20,Port of Brisbane,10,14:00
+15,463,Port of Brisbane,30,15:00
+15,143,Port of Brisbane,20,15:00
+15,20,Port of Brisbane,10,15:00
+16,412,Port of Brisbane,30,16:00
+16,131,Port of Brisbane,20,16:00
+16,20,Port of Brisbane,10,16:00
+17,463,Port of Brisbane,30,17:00
+17,144,Port of Brisbane,20,17:00
+17,19,Port of Brisbane,10,17:00
+18,645,Port of Brisbane,30,18:00
+18,172,Port of Brisbane,20,18:00
+18,20,Port of Brisbane,10,18:00
+19,712,Port of Brisbane,30,19:00
+19,187,Port of Brisbane,20,19:00
+19,20,Port of Brisbane,10,19:00
+20,712,Port of Brisbane,30,20:00
+20,188,Port of Brisbane,20,20:00
+20,20,Port of Brisbane,10,20:00
+21,711,Port of Brisbane,30,21:00
+21,192,Port of Brisbane,20,21:00
+21,20,Port of Brisbane,10,21:00
+22,719,Port of Brisbane,30,22:00
+22,195,Port of Brisbane,20,22:00
+22,20,Port of Brisbane,10,22:00
+23,733,Port of Brisbane,30,23:00
+23,192,Port of Brisbane,20,23:00
+23,20,Port of Brisbane,10,23:00
+00,1581,Crestmead,30,00:00
+00,479,Crestmead,20,00:00
+00,86,Crestmead,10,00:00
+01,1540,Crestmead,30,01:00
+01,490,Crestmead,20,01:00
+01,84,Crestmead,10,01:00
+02,1621,Crestmead,30,02:00
+02,515,Crestmead,20,02:00
+02,88,Crestmead,10,02:00
+03,1650,Crestmead,30,03:00
+03,515,Crestmead,20,03:00
+03,92,Crestmead,10,03:00
+04,1612,Crestmead,30,04:00
+04,507,Crestmead,20,04:00
+04,89,Crestmead,10,04:00
+05,1483,Crestmead,30,05:00
+05,470,Crestmead,20,05:00
+05,87,Crestmead,10,05:00
+06,1297,Crestmead,30,06:00
+06,421,Crestmead,20,06:00
+06,80,Crestmead,10,06:00
+07,1166,Crestmead,30,07:00
+07,389,Crestmead,20,07:00
+07,74,Crestmead,10,07:00
+08,1107,Crestmead,30,08:00
+08,375,Crestmead,20,08:00
+08,66,Crestmead,10,08:00
+09,1244,Crestmead,30,09:00
+09,385,Crestmead,20,09:00
+09,66,Crestmead,10,09:00
+10,1310,Crestmead,30,10:00
+10,405,Crestmead,20,10:00
+10,72,Crestmead,10,10:00
+11,1352,Crestmead,30,11:00
+11,405,Crestmead,20,11:00
+11,74,Crestmead,10,11:00
+12,1320,Crestmead,30,12:00
+12,400,Crestmead,20,12:00
+12,71,Crestmead,10,12:00
+13,1325,Crestmead,30,13:00
+13,407,Crestmead,20,13:00
+13,73,Crestmead,10,13:00
+14,1301,Crestmead,30,14:00
+14,400,Crestmead,20,14:00
+14,73,Crestmead,10,14:00
+15,1224,Crestmead,30,15:00
+15,372,Crestmead,20,15:00
+15,66,Crestmead,10,15:00
+16,1195,Crestmead,30,16:00
+16,372,Crestmead,20,16:00
+16,67,Crestmead,10,16:00
+17,1263,Crestmead,30,17:00
+17,399,Crestmead,20,17:00
+17,73,Crestmead,10,17:00
+18,1362,Crestmead,30,18:00
+18,413,Crestmead,20,18:00
+18,72,Crestmead,10,18:00
+19,1470,Crestmead,30,19:00
+19,425,Crestmead,20,19:00
+19,74,Crestmead,10,19:00
+20,1553,Crestmead,30,20:00
+20,454,Crestmead,20,20:00
+20,83,Crestmead,10,20:00
+21,1536,Crestmead,30,21:00
+21,447,Crestmead,20,21:00
+21,76,Crestmead,10,21:00
+22,1549,Crestmead,30,22:00
+22,460,Crestmead,20,22:00
+22,77,Crestmead,10,22:00
+23,1562,Crestmead,30,23:00
+23,493,Crestmead,20,23:00
+23,86,Crestmead,10,23:00
+00,475,Fremantle,30,00:00
+00,147,Fremantle,20,00:00
+00,15,Fremantle,10,00:00
+01,514,Fremantle,30,01:00
+01,153,Fremantle,20,01:00
+01,15,Fremantle,10,01:00
+02,400,Fremantle,30,02:00
+02,101,Fremantle,20,02:00
+02,5,Fremantle,10,02:00
+03,502,Fremantle,30,03:00
+03,154,Fremantle,20,03:00
+03,14,Fremantle,10,03:00
+04,503,Fremantle,30,04:00
+04,157,Fremantle,20,04:00
+04,16,Fremantle,10,04:00
+05,425,Fremantle,30,05:00
+05,127,Fremantle,20,05:00
+05,11,Fremantle,10,05:00
+06,398,Fremantle,30,06:00
+06,117,Fremantle,20,06:00
+06,10,Fremantle,10,06:00
+07,344,Fremantle,30,07:00
+07,107,Fremantle,20,07:00
+07,10,Fremantle,10,07:00
+08,308,Fremantle,30,08:00
+08,93,Fremantle,20,08:00
+08,9,Fremantle,10,08:00
+09,361,Fremantle,30,09:00
+09,103,Fremantle,20,09:00
+09,11,Fremantle,10,09:00
+10,350,Fremantle,30,10:00
+10,100,Fremantle,20,10:00
+10,11,Fremantle,10,10:00
+11,339,Fremantle,30,11:00
+11,99,Fremantle,20,11:00
+11,9,Fremantle,10,11:00
+12,328,Fremantle,30,12:00
+12,93,Fremantle,20,12:00
+12,9,Fremantle,10,12:00
+13,353,Fremantle,30,13:00
+13,100,Fremantle,20,13:00
+13,9,Fremantle,10,13:00
+14,344,Fremantle,30,14:00
+14,100,Fremantle,20,14:00
+14,10,Fremantle,10,14:00
+15,324,Fremantle,30,15:00
+15,93,Fremantle,20,15:00
+15,9,Fremantle,10,15:00
+16,317,Fremantle,30,16:00
+16,94,Fremantle,20,16:00
+16,8,Fremantle,10,16:00
+17,316,Fremantle,30,17:00
+17,92,Fremantle,20,17:00
+17,8,Fremantle,10,17:00
+18,387,Fremantle,30,18:00
+18,111,Fremantle,20,18:00
+18,9,Fremantle,10,18:00
+19,385,Fremantle,30,19:00
+19,109,Fremantle,20,19:00
+19,8,Fremantle,10,19:00
+20,389,Fremantle,30,20:00
+20,118,Fremantle,20,20:00
+20,10,Fremantle,10,20:00
+21,400,Fremantle,30,21:00
+21,119,Fremantle,20,21:00
+21,10,Fremantle,10,21:00
+22,426,Fremantle,30,22:00
+22,126,Fremantle,20,22:00
+22,10,Fremantle,10,22:00
+23,443,Fremantle,30,23:00
+23,139,Fremantle,20,23:00
+23,13,Fremantle,10,23:00
+00,1645,Cockburn,30,00:00
+00,793,Cockburn,20,00:00
+00,165,Cockburn,10,00:00
+01,1662,Cockburn,30,01:00
+01,792,Cockburn,20,01:00
+01,163,Cockburn,10,01:00
+02,1662,Cockburn,30,02:00
+02,790,Cockburn,20,02:00
+02,166,Cockburn,10,02:00
+03,1670,Cockburn,30,03:00
+03,805,Cockburn,20,03:00
+03,161,Cockburn,10,03:00
+04,1622,Cockburn,30,04:00
+04,786,Cockburn,20,04:00
+04,160,Cockburn,10,04:00
+05,1557,Cockburn,30,05:00
+05,764,Cockburn,20,05:00
+05,151,Cockburn,10,05:00
+06,1447,Cockburn,30,06:00
+06,695,Cockburn,20,06:00
+06,145,Cockburn,10,06:00
+07,1347,Cockburn,30,07:00
+07,631,Cockburn,20,07:00
+07,124,Cockburn,10,07:00
+08,1180,Cockburn,30,08:00
+08,578,Cockburn,20,08:00
+08,114,Cockburn,10,08:00
+09,1378,Cockburn,30,09:00
+09,645,Cockburn,20,09:00
+09,122,Cockburn,10,09:00
+10,1423,Cockburn,30,10:00
+10,648,Cockburn,20,10:00
+10,122,Cockburn,10,10:00
+11,1405,Cockburn,30,11:00
+11,641,Cockburn,20,11:00
+11,117,Cockburn,10,11:00
+12,1403,Cockburn,30,12:00
+12,639,Cockburn,20,12:00
+12,131,Cockburn,10,12:00
+13,1424,Cockburn,30,13:00
+13,678,Cockburn,20,13:00
+13,131,Cockburn,10,13:00
+14,1388,Cockburn,30,14:00
+14,649,Cockburn,20,14:00
+14,123,Cockburn,10,14:00
+15,1324,Cockburn,30,15:00
+15,608,Cockburn,20,15:00
+15,113,Cockburn,10,15:00
+16,1230,Cockburn,30,16:00
+16,567,Cockburn,20,16:00
+16,109,Cockburn,10,16:00
+17,1259,Cockburn,30,17:00
+17,595,Cockburn,20,17:00
+17,127,Cockburn,10,17:00
+18,1468,Cockburn,30,18:00
+18,669,Cockburn,20,18:00
+18,139,Cockburn,10,18:00
+19,1577,Cockburn,30,19:00
+19,720,Cockburn,20,19:00
+19,133,Cockburn,10,19:00
+20,1592,Cockburn,30,20:00
+20,725,Cockburn,20,20:00
+20,140,Cockburn,10,20:00
+21,1616,Cockburn,30,21:00
+21,755,Cockburn,20,21:00
+21,146,Cockburn,10,21:00
+22,1607,Cockburn,30,22:00
+22,747,Cockburn,20,22:00
+22,146,Cockburn,10,22:00
+23,1632,Cockburn,30,23:00
+23,748,Cockburn,20,23:00
+23,151,Cockburn,10,23:00
