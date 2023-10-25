@@ -74,8 +74,13 @@ path{
     align-items: center !important; 
     flex-direction: column;
     flex: 1;
-    
-    
+    pointer-events: none;
+       
+}
+
+.step_content{
+    pointer-events: all;
+    z-index: 1000 !important;
 }
 
 
